@@ -16,21 +16,11 @@ Welcome to my GitHub profile! I'm a passionate developer, currently studying CS 
 - 📧 Email: [pro@noahcode.dev](mailto:pro@noahcode.dev)
 - 💬 LinkedIn: [Noah Fraiture](https://www.linkedin.com/in/noah-fraiture-0377b9227/)
 
-<table>
-<tr>
-<td>
+### Stats
 
-### GitHub Stats
-
-![Noah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noahfraiture&show_icons=true&theme=radical)
-
-</td>
-<td>
-
-### Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahfraiture&layout=compact&theme=radical)
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/noahfraiture">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=noahfraiture&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/noahfraiture">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahfraiture&layout=compact&theme=radical&exclude_repo=undercoverUnicorns&card_width=320" />
+</a>
