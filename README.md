@@ -2,12 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer, currently studying CS with a major in cybersecurity and software development. I love discovering new languages and technologies. Here you'll find some of my projects, collaborations, and code experiments.
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on [coma](https://github.com/noahfraiture/coma) and [gotcha](https://github.com/noahfraiture/gotcha)
-- 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on any project that I find useful. If you have a project that I want to use and it lacks something that I want, I will likely make a PR
-
 ## 🌐 Connect with Me & GitHub Stats
 
 ### Connect with Me
